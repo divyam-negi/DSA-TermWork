@@ -1,0 +1,63 @@
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 1
+Enter the value to insert: 100
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 1
+Enter the value to insert: 101
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 1
+Enter the value to insert: 103
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 1
+Enter the value to insert: 104
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 2
+100 -> 101 -> 103 -> 104 -> NULL
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 3
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 2
+100 -> 104 -> 101 -> 103 -> NULL
+
+Menu:
+1. Insert a node at the end
+2. Display the list
+3. Rearrange the list
+4. Exit
+Enter your choice: 4
+Exiting...
+[1] + Done 

@@ -1,0 +1,42 @@
+Menu:
+1. Add a string
+2. Sort strings
+3. Display strings
+4. Exit
+Enter your choice: 1
+Enter a string: hello
+
+Menu:
+1. Add a string
+2. Sort strings
+3. Display strings
+4. Exit
+Enter your choice: 1
+Enter a string: ajax
+
+Menu:
+1. Add a string
+2. Sort strings
+3. Display strings
+4. Exit
+Enter your choice: 2
+Strings sorted successfully.
+
+Menu:
+1. Add a string
+2. Sort strings
+3. Display strings
+4. Exit
+Enter your choice: 3
+The strings are:
+ajax
+hello
+
+Menu:
+1. Add a string
+2. Sort strings
+3. Display strings
+4. Exit
+Enter your choice: 4
+Exiting...
+[1] + Done

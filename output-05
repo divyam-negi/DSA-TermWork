@@ -1,0 +1,83 @@
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 1
+Creating first quadratic equation:
+Enter coefficient for x^2: 4
+Enter coefficient for x: 3
+Enter constant term: 2
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 2
+Creating second quadratic equation:
+Enter coefficient for x^2: 6
+Enter coefficient for x: 4
+Enter constant term: 2
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 5
+The quadratic equations have been added.
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 3
+First quadratic equation is: 4x^2 + 3x + 2
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 4
+Second quadratic equation is: 6x^2 + 4x + 2
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 6
+The result of the addition is: 10x^2 + 7x + 4
+
+Menu:
+1. Create first quadratic equation
+2. Create second quadratic equation
+3. Display first quadratic equation
+4. Display second quadratic equation
+5. Add the two quadratic equations
+6. Display the result of addition
+7. Exit
+Enter your choice: 7
+[1] + Done 
+

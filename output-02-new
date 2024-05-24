@@ -1,0 +1,48 @@
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 1
+Enter value to insert: 11
+
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 1
+Enter value to insert: 22
+
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 1
+Enter value to insert: 12
+
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 2
+Enter the value V: 13
+
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 3
+Linked list: 11 -> 12 -> 22 -> NULL
+
+Menu:
+1. Insert value into linked list
+2. Rearrange linked list based on value V
+3. Display linked list
+4. Exit
+Enter your choice: 4
+Exiting program.
+[1] + Done 

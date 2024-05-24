@@ -1,0 +1,121 @@
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 10
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 3
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 10
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 1
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 6
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 1
+Enter the value to insert: 14
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 3
+Nodes with left child only: 0
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 4
+Total number of leaf nodes: 3
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 5
+Height of the BST: 3
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 6
+Nodes on right-hand side of root node: 1
+
+Menu:
+1. Insert a node
+2. Search and print the node having second highest value
+3. Count nodes with left child only
+4. Find total number of leaf nodes
+5. Find height of the BST
+6. Count nodes from right-hand side of root node
+7. Exit
+Enter your choice: 7
+Exiting...
+[1] + Done  

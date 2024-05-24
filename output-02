@@ -1,0 +1,146 @@
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 1
+Enter data for List 1: 4
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 1
+Enter data for List 1: 3
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 1
+Enter data for List 1: 2
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 2
+Enter data for List 2: 2
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 2
+Enter data for List 2: 1
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 2
+Enter data for List 2: 1
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 3
+List 1: 4->3->2->NULL
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 4
+List 2: 2->1->1->NULL
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 5
+Result: 1->2->2->NULL
+Menu:
+1. Add node to List 1
+2. Add node to List 2
+3. Display List 1
+4. Display List 2
+5. Subtract Lists and Display Result
+6. Exit
+Enter your choice: 6
+[1] + Done 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
